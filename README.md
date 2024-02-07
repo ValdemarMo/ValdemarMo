@@ -2,14 +2,14 @@
 
 я **Михаил Виноградов**, разработчик на Python.
 
-###Вот, что я умею:
-+
-+
-+
-###Сертификаты **Нетологии**:
-+
-+
-+
+### Вот, что я умею:
++ 
++ 
++ 
+### Сертификаты **Нетологии**:
++ 
++ 
++ 
 
 <!--
 **ValdemarMo/ValdemarMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
