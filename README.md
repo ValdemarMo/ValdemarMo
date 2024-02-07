@@ -3,13 +3,13 @@
 я **Михаил Виноградов**, разработчик на Python.
 
 ### Вот, что я умею:
-+ 
-+ 
-+ 
+1.
+2. 
+3.  
 ### Сертификаты **Нетологии**:
-+ 
-+ 
-+ 
+1.
+2. 
+3.
 
 <!--
 **ValdemarMo/ValdemarMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
