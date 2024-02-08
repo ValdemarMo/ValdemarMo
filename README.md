@@ -20,20 +20,6 @@
 6. Профессиональная работа с Python. Сертификат
 7. Итоговое свидетельство. Сертификат
 
-<!--
-**ValdemarMo/ValdemarMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [repo1]: https://github.com/ValdemarMo/ddp "дипломная работа"
 [repo2]: https://github.com/ValdemarMo/hw_asyncio "Asincio"
 [repo3]: https://github.com/ValdemarMo/hw_drf-intro "API CRUD DRF"
@@ -42,9 +28,9 @@ Here are some ideas to get you started:
 [repo6]:
 [repo7]: https://github.com/ValdemarMo/cp2201 "архивирование с VK"
 [cert1]: https://github.com/ValdemarMo/certificates/certificate_D.pdf "Основы языка программирования Python"
-[cert2]: "Диплом"
-[cert3]: "Диплом"
-[cert4]: "Диплом"
-[cert5]: "Диплом"
-[cert6]: "Диплом"
-[cert7]: "Диплом"
+[cert2]: https://github.com/ValdemarMo/certificates/certificate_Dj.pdf "Django: создание функциональных веб-приложений"
+[cert3]: https://github.com/ValdemarMo/certificates/certificate_git.pdf "Git — система контроля версий"
+[cert4]: https://github.com/ValdemarMo/certificates/certificate_db.pdf "Базы данных для python-разработчиков"
+[cert5]: https://github.com/ValdemarMo/certificates/certificate_PWeb.pdf "Python в веб-разработке"
+[cert6]: https://github.com/ValdemarMo/certificates/certificate_PAdv.pdf "Профессиональная работа с Python"
+[cert7]: https://github.com/ValdemarMo/certificates/certificate_D.pdf "Диплом"
