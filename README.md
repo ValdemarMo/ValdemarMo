@@ -23,9 +23,9 @@
 [repo1]: https://github.com/ValdemarMo/ddp "дипломная работа"
 [repo2]: https://github.com/ValdemarMo/hw_asyncio "Asincio"
 [repo3]: https://github.com/ValdemarMo/hw_drf-intro "API CRUD DRF"
-[repo4]:
+[repo4]: https://github.com/ValdemarMo/HW_OOP "ООП"
 [repo5]: https://github.com/ValdemarMo/docker_hw_pt2/tree/main "Docker"
-[repo6]:
+[repo6]: https://github.com/ValdemarMo/hw_PSQL-P "SQL(PostgreSQL)"
 [repo7]: https://github.com/ValdemarMo/cp2201 "архивирование с VK"
 [cert1]: https://github.com/ValdemarMo/certificates/certificate_D.pdf "Основы языка программирования Python"
 [cert2]: https://github.com/ValdemarMo/certificates/certificate_Dj.pdf "Django: создание функциональных веб-приложений"
