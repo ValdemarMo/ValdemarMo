@@ -10,7 +10,7 @@
 4. ООП. [Пример в репозитории][repo4]
 5. Docker, Docker-compose. [Пример в репозитории][repo5]
 6. SQL(PostgreSQL). [Пример в репозитории][repo6]
-7. Unittest [Пример в репозитории][repo7]
+7. Unit-test [Пример в репозитории][repo7]
 8. Курсовая. [Пример в репозитории][repo8]
    
 #### Сертификаты **Нетологии**:
@@ -28,7 +28,7 @@
 [repo4]: https://github.com/ValdemarMo/HW_OOP "ООП"
 [repo5]: https://github.com/ValdemarMo/docker_hw_pt2/tree/main "Docker"
 [repo6]: https://github.com/ValdemarMo/hw_PSQL-P "SQL(PostgreSQL)"
-[repo7]: https://github.com/ValdemarMo/hw_tests/ "Unittest"
+[repo7]: https://github.com/ValdemarMo/hw_tests/ "Unit-tests"
 [repo8]: https://github.com/ValdemarMo/cp2201 "архивирование с VK"
 
 [cert1]: https://github.com/ValdemarMo/certificates/blob/main/certificate_P.pdf "Основы языка программирования Python"
