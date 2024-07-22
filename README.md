@@ -12,8 +12,8 @@
 6. SQL(PostgreSQL). [Пример в репозитории][repo6]
 7. Unit-tests [Пример в репозитории][repo7]
 8. Курсовая. [Пример в репозитории][repo8]
-9. Telegramm-бот для слежения за сообщениями в чужих чатах [Пример в репозитории][repo9]
-10. OpenCV решение контроля проходной зоны [Пример в репозитории][repo10]
+9. OpenCV решение контроля проходной зоны [Пример в репозитории][repo09]
+10. Telegramm-бот для слежения за сообщениями в чужих чатах [Пример в репозитории][repo10]
    
 #### Сертификаты **Нетологии**:
 1. Python. [Сертификат][cert1]
@@ -32,8 +32,8 @@
 [repo6]: https://github.com/ValdemarMo/hw_PSQL-P "SQL(PostgreSQL)"
 [repo7]: https://github.com/ValdemarMo/hw_tests/ "Unit-tests"
 [repo8]: https://github.com/ValdemarMo/cp2201 "архивирование с VK"
-[repo9]: https://github.com/ValdemarMo/TMonkey57 "следящий бот"
-[repo10]: https://github.com/ValdemarMo/CVzoneControlPlan "OpenCV"
+[repo9]: https://github.com/ValdemarMo/CVzoneControlPlan "OpenCV"
+[repo10]: https://github.com/ValdemarMo/TMonkey57 "следящий бот"
 
 [cert1]: https://github.com/ValdemarMo/certificates/blob/main/certificate_P.pdf "Основы языка программирования Python"
 [cert2]: https://github.com/ValdemarMo/certificates/blob/main/certificate_Dj.pdf "Django: создание функциональных веб-приложений"
