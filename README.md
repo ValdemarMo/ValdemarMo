@@ -22,7 +22,7 @@
 4. Базы данных и SQL. [Сертификат][cert4]
 5. Python в веб-разработке. [Сертификат][cert5]
 6. Профессиональная работа с Python. [Сертификат][cert6]
-7. Итоговое свидетельство. [Диплом][cert7]
+7. Итоговое свидетельство (12-ти месячный курс). [Диплом][cert7] 
 
 [repo1]: https://github.com/ValdemarMo/ddp "дипломная работа"
 [repo2]: https://github.com/ValdemarMo/hw_asyncio "Asincio"
