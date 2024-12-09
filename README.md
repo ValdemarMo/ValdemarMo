@@ -29,7 +29,7 @@
 [repo3]: https://github.com/ValdemarMo/hw_drf-intro "API CRUD DRF"
 [repo4]: https://github.com/ValdemarMo/HW_OOP "ООП"
 [repo5]: https://github.com/ValdemarMo/docker_hw_pt2/tree/main "Docker"
-[repo6]: https://github.com/ValdemarMo/hw_PSQL-P "SQL(PostgreSQL)"
+[repo6]: https://github.com/ValdemarMo/HWmusicXBD "SQL"
 [repo7]: https://github.com/ValdemarMo/hw_tests/ "Unit-tests"
 [repo8]: https://github.com/ValdemarMo/cp2201 "архивирование с VK"
 [repo9]: https://github.com/ValdemarMo/CVzoneControlPlan "OpenCV"
